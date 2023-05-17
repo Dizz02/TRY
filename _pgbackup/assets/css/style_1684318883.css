@@ -573,7 +573,7 @@ h6 {
 section {
     padding: 60px 0;
     overflow: hidden;
-    background: linear-gradient(to bottom, #89fffd 0%, #ef32d9 100%);
+    background: linear-gradient(to top, #89fffd 0%, #ef32d9 100%);
 }
 
 .section-bg {
